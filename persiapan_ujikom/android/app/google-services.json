@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "661402132643",
+    "project_id": "flutter-persiapan-ujikom",
+    "storage_bucket": "flutter-persiapan-ujikom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661402132643:android:5f2b5206af1a1235c39f16",
+        "android_client_info": {
+          "package_name": "com.example.persiapan_ujikom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661402132643-5jfosb50bbms4gp2a302i6a0g9ho9a01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.persiapan_ujikom",
+            "certificate_hash": "24b0411cc66126a7aa425e219cd06e082bd1fa5c"
+          }
+        },
+        {
+          "client_id": "661402132643-nnho7s10u135vffkqj5njcubj9t3eaug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU_lBCTgosYV91FKQ5PUUc9y4m2xPzwMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661402132643-nnho7s10u135vffkqj5njcubj9t3eaug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
